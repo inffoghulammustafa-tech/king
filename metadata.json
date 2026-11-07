@@ -1,0 +1,6 @@
+{
+  "name": "NovaCity Studio & Digital Platform",
+  "description": "An immersive digital creative studio and platform inspired by anime and futuristic night cityscape aesthetics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
